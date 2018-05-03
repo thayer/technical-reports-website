@@ -44,10 +44,6 @@
 
 .section.hero {
   background-color: #80bf5e;
-  background-image: -webkit-linear-gradient(270deg, rgba(128, 191, 94, .53), rgba(128, 191, 94, .53)), url('../images/green-bkground.png');
-  background-image: linear-gradient(180deg, rgba(128, 191, 94, .53), rgba(128, 191, 94, .53)), url('../images/green-bkground.png');
-  background-position: 0px 0px, 0px 0px;
-  background-size: auto, 460px;
   text-align: center;
 }
 
